@@ -1,0 +1,1 @@
+A Paper Mario mod for FNF, to install it to the game just drag this folder on the funkin-windows folder
